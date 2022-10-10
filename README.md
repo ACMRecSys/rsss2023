@@ -1,1 +1,1 @@
-First!1
+RecSys Summer School CPH 2023
