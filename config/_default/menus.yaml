@@ -13,9 +13,12 @@ main:
   - name: Program
     url: '#program'
     weight: 40
+  - name: Speakers
+    url: '#speakers'
+    weight: 60
   - name: Organizers
     url: '#organizers'
-    weight: 70
+    weight: 70  
   - name: RecSys Summer School 2023
     url: https://acmrecsys.github.io/rsss2023/
     weight: 80
