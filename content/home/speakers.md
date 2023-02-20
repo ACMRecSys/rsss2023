@@ -30,6 +30,7 @@ title = "Speakers"
 | Lien Michiels         | University of Antwerp, BE                | [Web](https://www.uantwerpen.be/en/staff/lien-michiels/)                       | S12            |
 | Cataldo Musto         | University of Bari, IT                   | [Web](http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto)            | S6-S9          |
 | Daan Odijk            | RTL, NL                                  | [Web](https://www.linkedin.com/in/dodijk/)                  | S11            |
+| Marco Polignano       | University of Bari, IT                   | [Web](http://www.di.uniba.it/~swap/index.php?n=Membri.MarcoPolignano)                | S6-S9          |
 | Giovanni Semeraro     | University of Bari, IT                   | [Web](http://www.di.uniba.it/~swap/index.php?n=Membri.Semeraro)                | S6-S9          |
 | Martijn Willemsen     | JADS & TUE, NL                           | [Web](https://martijnwillemsen.nl/)                                            | S5, S10        |
 | Özlem Özgöbek         | NTNU, NO                                 | [Web](https://www.ntnu.edu/employees/ozlem.ozgobek)                            | S11            |
