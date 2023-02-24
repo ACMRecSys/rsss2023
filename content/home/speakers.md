@@ -25,7 +25,7 @@ title = "Speakers"
 | Marco de Gemmis       | University of Bari, IT                   | [Web](https://www.di.uniba.it/~swap/index.php?n=Membri.Degemmis)               | S6-S9          |
 | David Graus           | Randstad, NL                             | [Web](https://graus.nu/)                                                       | S15            |
 | Dietmar Jannach       | University of Klagenfurt, AT             | [Web](https://www.aau.at/en/aics/research-groups/infsys/team/dietmar-jannach/) | S1             |
-| Mesut Kaya            | Aalborg University Copenhagen, DL         | [Web](https://mesutkaya.github.io/)                                            | S15            |
+| Mesut Kaya            | Aalborg University Copenhagen, DK         | [Web](https://mesutkaya.github.io/)                                            | S15            |
 | Pasquale Lops         | University of Bari, IT                   | [Web](http://www.di.uniba.it/~swap/index.php?n=Membri.Lops)                    | S6-S9          |
 | Lien Michiels         | University of Antwerp, BE                | [Web](https://www.uantwerpen.be/en/staff/lien-michiels/)                       | S12            |
 | Cataldo Musto         | University of Bari, IT                   | [Web](http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto)            | S6-S9          |
