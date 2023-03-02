@@ -2,7 +2,7 @@
 # Registration.
 widget = "blank"
 headless = true  # This file represents a page section.
-weight = 25
+weight = 20
 active = true 
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -17,7 +17,7 @@ title = "Registration"
 
 **NB:** Travel support will be offered in the form of reimbursement. Should you be granted funding, you will need to register for the school and book/pay for travel and accommodation first and submit receipts afterwards.
 
-**Visa invitation letters:** Visa invitation letters can be requested when registering. Not that current waiting time for a visa is up to three months.
+**Visa invitation letters:** Visa invitation letters can be requested when registering. Note that current waiting time for a visa is up to three months.
 
 
 **Registration**

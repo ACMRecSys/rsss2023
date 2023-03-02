@@ -9,7 +9,7 @@ cta:
   url: #http:
 cta_alt:
   label: 
-  url: 
+  url: /rsss2023
 cta_note:
   label: 
 design:
@@ -25,6 +25,6 @@ advanced:
 ---
 
 **Supported by SIGCHI and DDSA**  
-June 12-16, 2023, Copenhagen
+June 12-16, 2023, Copenhagen, DK
 
 
