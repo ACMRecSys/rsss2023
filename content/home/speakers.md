@@ -16,7 +16,7 @@ title = "Speakers"
 | Name                  | Affiliation                              | Website                                                                        | Session        |
 |-----------------------|------------------------------------------|--------------------------------------------------------------------------------|----------------|
 | Morten Arngren        | Wunderman Nordic, DK                     | [Web](https://www.linkedin.com/in/arngren/)                                    | S1             |
-| Leandro Balby Marinho | Federal University of Campina Grande, BR | [Web](https://leandro.lsd.ufcg.edu.br/)                                        | S14            |
+| Leandro Balby Marinho | Federal University of Campina Grande, BR | [Web](http://leandro.lsd.ufcg.edu.br/)                                        | S14            |
 | Christine Bauer       | Utrecht University, NL                   | [Web](https://www.christinebauer.eu/)                                          | S5, S10, & S13 |
 | Ludovico Boratto      | University of Cagliari, IT               | [Web](https://www.ludovicoboratto.com/)                                        | S3 & S4        |
 | Robin Burke           | UC Boulder, USA                          | [Web](https://www.colorado.edu/cmci/people/college-leadership/robin-burke)     | S17 & S18      |
