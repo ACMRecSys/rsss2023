@@ -13,7 +13,7 @@ title = "Registration"
   columns = "1"
 +++
 
-**Travel support:** Students enrolled at universities in developing and emerging countries are eligible to receive travel support. To apply for funding, send an application to summerschool2023[at]recsys.acm.org. In your application, include the university where you are enrolled, your primary field of study, and the degree you are pursuing. A maximum of $1500 will be reimbursed. 
+**Travel support:** Students enrolled at universities in developing and emerging countries are eligible to receive travel support. To apply for funding, send an application to summerschool2023[at]recsys.acm.org. Your application should include a 1-page CV and a letter from your supervisor supporting your participation in the summer school. A maximum of $1500 will be reimbursed. 
 
 **NB:** Travel support will be offered in the form of reimbursement. Should you be granted funding, you will need to register for the school and book/pay for travel and accommodation first and submit receipts afterwards.
 

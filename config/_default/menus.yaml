@@ -16,6 +16,9 @@ main:
   - name: Program
     url: '#program'
     weight: 40
+  - name: Venue
+    url: '#venue'
+    weight: 30
   - name: Speakers
     url: '#speakers'
     weight: 60
