@@ -1,3 +1,4 @@
+
 ---
 widget: hero
 headless: true
@@ -6,7 +7,7 @@ title: RecSys Summer School 2023
 hero_media: 
 cta:
   label: #'**Read more**'
-  url: #http:
+  url: #http://acmrecsys.github.io/rsss2023
 cta_alt:
   label: 
   url: /rsss2023
