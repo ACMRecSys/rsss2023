@@ -24,7 +24,7 @@ advanced:
   css_class: fullscreen
 ---
 
-**Supported by SIGCHI and DDSA**  
+**Supported by ACM RecSys, ACM Europe Council, DDSA, and SIGCHI**  
 June 12-16, 2023, Copenhagen, DK
 
 

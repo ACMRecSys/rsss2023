@@ -19,6 +19,11 @@ title = "Registration"
 
 **Visa invitation letters:** Visa invitation letters can be requested when registering. Note that current waiting time for a visa is up to three months.
 
+**ECTS credits or certificates of attendance**
+The RecSys Summer School is officially recognized as a Ph.D. course in Denmark. Ph.D. students from Danish universities can claim 1.5 ECTS. For more information refer to the [course page](https://phdcourses.dk/Course/103500).
+
+Ph.D. students from non-Danish universities will get a certificate of attendance issued on request.
+
 
 **Registration**
 Registration includes a five day program with courses on recommender systems, coffee breaks and lunches during all five days, and a social event/dinner on one of the evenings.
