@@ -33,7 +33,7 @@ Copenhagen is an attractive tourist destination with plenty of hotels, hostels, 
 The following hotels are recommended:
 - **[Scandic Nørreport](https://www.scandichotels.dk/hoteller/danmark/kobenhavn/scandic-norreport?&cmpid=ppc_BH2d&s_kwcid=AL!7589!3!650888367105!e!!g!!scandic%20n%C3%B8rreport&gclid=EAIaIQobChMIj_fMxeqo_gIVOoCDBx1HggyQEAAYASAAEgJJz_D_BwE&gclsrc=aw.ds)** (35 queen-size rooms)  
 Availability: 10/06/2023 or 12/06/2023 to 16/06/2023  
-School discount: TBA
+School discount: 15% discount using the booking code BOOK110623
 - **[Cabinn Copenhagen](https://www.cabinn.com/hotel/cabinn-copenhagen)** (40 standard rooms)  
 Availability: 10/06/2023 to 16/06/2023  
 School discount: 15% discount using the booking code BLKKØBENH_006
