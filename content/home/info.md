@@ -18,4 +18,4 @@ The 2023 RecSys summer school will be held from Monday June 12th to Friday June 
 The Summer School on Recommender Systems is supported by [ACM RecSys](http://recsys.acm.org), [ACM Europe Council](https://europe.acm.org/), [DDSA](https://ddsa.dk/), and [SIGCHI](https://sigchi.org/).
 The RecSys Summer School follows previous summer schools on the same topic having taken place in Bilbao in 2006, [Bolzano in 2017](https://pro.unibz.it/projects/schoolrecsys17/), [Gothenburg in 2019](https://acmrecsys.github.io/rsss2019/), and [Fortaleza in 2019](https://sbbd.org.br/lars2019/).
 
-Registration is [open](#registration).
+**Registration is closed. The summer school is sold out.**

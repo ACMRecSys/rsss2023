@@ -26,12 +26,15 @@ Ph.D. students from non-Danish universities will get a certificate of attendance
 
 
 **Registration**
+
+***Registration is closed. The summer school is sold out.***
+
 Registration includes a five day program with courses on recommender systems, coffee breaks and lunches during all five days, and a social event/dinner on one of the evenings.
 
 
 
 
-{{< button href="https://eventsignup.ku.dk/recsys2023/signup" >}}Register here{{< /button >}}
+[//]:  {{< button href="https://eventsignup.ku.dk/recsys2023/signup" >}}Register here{{< /button >}}
 <br>
 
 
