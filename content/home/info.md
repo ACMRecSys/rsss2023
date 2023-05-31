@@ -19,3 +19,6 @@ The Summer School on Recommender Systems is supported by [ACM RecSys](http://rec
 The RecSys Summer School follows previous summer schools on the same topic having taken place in Bilbao in 2006, [Bolzano in 2017](https://pro.unibz.it/projects/schoolrecsys17/), [Gothenburg in 2019](https://acmrecsys.github.io/rsss2019/), and [Fortaleza in 2019](https://sbbd.org.br/lars2019/).
 
 **Registration is closed. The summer school is sold out.**
+
+
+**There are no more travel grants available.**
